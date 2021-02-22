@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestadorAzureServiceBus.Fila.Sender", "TestadorAzureServiceBus.Fila.Sender\TestadorAzureServiceBus.Fila.Sender.csproj", "{D07380C0-66FA-4098-9A48-36E62E750515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestadorAzureServiceBus.Fila.Consumer", "TestadorAzureServiceBus.Fila.Consumer\TestadorAzureServiceBus.Fila.Consumer.csproj", "{0C51C054-226F-4266-BE8B-CE5630501E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07380C0-66FA-4098-9A48-36E62E750515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07380C0-66FA-4098-9A48-36E62E750515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07380C0-66FA-4098-9A48-36E62E750515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07380C0-66FA-4098-9A48-36E62E750515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C51C054-226F-4266-BE8B-CE5630501E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C51C054-226F-4266-BE8B-CE5630501E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C51C054-226F-4266-BE8B-CE5630501E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C51C054-226F-4266-BE8B-CE5630501E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48060F01-6882-42E3-AECE-F8F307D8E2F4}
+	EndGlobalSection
+EndGlobal
